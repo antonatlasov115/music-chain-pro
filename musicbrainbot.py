@@ -37,7 +37,7 @@ from mixer_tg import (
 )
 
 # 🚨 ВСТАВЬ СВОЙ ТОКЕН СЮДА
-BOT_TOKEN = "2113380145:AAFKFc5YArSw9wFTOflkO2-owuqql4kgAxU"
+BOT_TOKEN = ""
 BASE_MUSIC_DIR = "music_library" 
 
 session = AiohttpSession(timeout=300)

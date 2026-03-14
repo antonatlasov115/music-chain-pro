@@ -7,8 +7,8 @@ import urllib.parse
 import json
 
 # ТВОИ КЛЮЧИ LAST.FM
-API_KEY = "23f741bf04a01326297ceb7bf5ba37a9"
-API_SECRET = "e6e584f72183e60629508d74602f55a3"
+API_KEY = ""
+API_SECRET = ""
 
 network = pylast.LastFMNetwork(api_key=API_KEY, api_secret=API_SECRET)
 
